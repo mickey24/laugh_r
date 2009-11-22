@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-g -O2 -I/opt/local/include/opencv
+PKG_LIBS=-L/opt/local/lib -lcxcore -lcv -lml -lhighgui -lcvaux
